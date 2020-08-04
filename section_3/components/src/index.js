@@ -21,7 +21,7 @@ const App = () => {
             </ApprovalCard>
 
             <ApprovalCard>
-                <CommentDetail author ={faker.name.firstName()} timeAgo="Today at 18:19PM" avatar={faker.image.avatar()} text={faker.lorem.words()}/>
+                <CommentDetail author ={faker.name.firstName()} timeAgo="Today at 18:09PM" avatar={faker.image.avatar()} text={faker.lorem.words()}/>
             </ApprovalCard>
         </div>
     )
